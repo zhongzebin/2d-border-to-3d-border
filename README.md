@@ -20,3 +20,7 @@ Steps:
     Read image from 004007.png and data file from 004007.txt
     
     The 5th column is x_min, 7th column is x_max, 6th column is y_min, 8th column is y_max, 4th column is alpha angle
+    
+2. definition of alpha
+
+    [!image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/alpha.PNG)
