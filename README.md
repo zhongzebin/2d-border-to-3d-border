@@ -24,3 +24,7 @@ Steps:
 2. definition of alpha
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/alpha.PNG)
+    
+3. catagorize according to alpha
+
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/catagorize.PNG)
