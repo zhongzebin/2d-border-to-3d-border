@@ -35,6 +35,10 @@ Steps:
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function1.PNG)
     
+6. definition of introvert matrix
+
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function3.PNG)
+    
 6. slove rotation and translation equation
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function2.PNG)
