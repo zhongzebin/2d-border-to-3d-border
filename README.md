@@ -28,3 +28,13 @@ Steps:
 3. catagorize according to alpha
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/catagorize.PNG)
+    
+4. calculate points' coordinates
+
+5. definition of rotation matrix
+
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function1.PNG)
+    
+6. slove rotation and translation equation
+
+    
