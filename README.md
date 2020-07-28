@@ -23,4 +23,4 @@ Steps:
     
 2. definition of alpha
 
-    [!image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/alpha.PNG)
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/alpha.PNG)
