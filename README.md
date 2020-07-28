@@ -29,7 +29,7 @@ Steps:
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/catagorize.PNG)
     
-4. calculate points' coordinates
+4. calculate points' coordinates (3 of them)
 
 5. definition of rotation matrix
 
@@ -37,4 +37,4 @@ Steps:
     
 6. slove rotation and translation equation
 
-    
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function2.PNG)
