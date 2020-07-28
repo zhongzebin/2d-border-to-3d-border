@@ -8,3 +8,15 @@ How to configure the environment?
 1. install libs in python
 
     Use the command pip install xxx to install the libs in python
+
+How to run this project?
+
+1. run 2d-3d.py
+
+Steps:
+
+1. read image and data file
+
+    Read image from 004007.png and data file from 004007.txt
+    
+    The 5th column is x_min, 7th column is x_max, 6th column is y_min, 8th column is y_max, 4th column is alpha angle
