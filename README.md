@@ -49,4 +49,12 @@ Steps:
     
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/corner.JPG)
     
-    I suppose the length of a car is 3.96m, the width is 1.59m and the height is 1.5m. Thus, I can calculate the x_w, x_y and x_z which are points in the world coordinates. The camera is installed above the car, and its height is 2.22m. So t_y=2.22m.
+    I suppose the length of a car is 3.96m, the width is 1.59m and the height is 1.5m. Thus, I can calculate the x_w, x_y and x_z which are points in the world coordinates. The camera is installed above the car, and its height is 2.22m. So t_y=2.22m. t_x, t_z and ry are parameters we don't know, but we have already known 3 coordinates in the image (step 4). We have 3 functions and those unknown numbers can be solved!
+    
+7. solve all corners' coordinates in the image
+
+    Using the function mentioned in step 6, we can solve the coordinates of all corners in the image coordinate.
+    
+8. draw outlines on the image
+
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/ans.jpg)
