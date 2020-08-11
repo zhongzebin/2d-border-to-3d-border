@@ -39,8 +39,10 @@ Steps:
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function3.PNG)
     
+    In this project, f_x=f_y=721.5, s=0, x0=609.5, y0=172.9.
+    
 6. slove rotation and translation equation
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function2.PNG)
     
-    I suppose the length of a car is 3.96m, the width is 1.59m and the height is 1.5m. Thus, I can calculate the x_w, x_y and x_z which are points in the world coordinates. Since the camera is 
+    I suppose the length of a car is 3.96m, the width is 1.59m and the height is 1.5m. Thus, I can calculate the x_w, x_y and x_z which are points in the world coordinates. The camera is installed above the car, and its height is 2.22m. So t_y=2.22m.
