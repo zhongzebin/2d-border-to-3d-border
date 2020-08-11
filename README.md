@@ -31,6 +31,8 @@ Steps:
     
 4. calculate points' coordinates (3 of them)
 
+    e.g. if -90°<alpha<=0°, x_2=x_max, x_4=x_min, y_3=y_max.
+
 5. definition of rotation matrix
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function1.PNG)
@@ -44,5 +46,7 @@ Steps:
 6. slove rotation and translation equation
 
     ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/function2.PNG)
+    
+    ![image](https://github.com/zhongzebin/2d-border-to-3d-border/blob/master/images%20for%20readme/corner.JPG)
     
     I suppose the length of a car is 3.96m, the width is 1.59m and the height is 1.5m. Thus, I can calculate the x_w, x_y and x_z which are points in the world coordinates. The camera is installed above the car, and its height is 2.22m. So t_y=2.22m.
